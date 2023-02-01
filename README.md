@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcriosvi
 - 👀 I’m interested in learning Full Stack Development
-- 🌱 I’m currently learning Backend Development on AWS
+- 🌱 I’m currently learning Backend Development on AWS.
 - 💞️ I’m looking to collaborate on Java Dev.
 - 📫 How to reach me jcriosvi@yahoo.com
 
